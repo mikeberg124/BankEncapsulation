@@ -1,0 +1,15 @@
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.deps.json
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.runtimeconfig.json
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.dll
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/bin/Debug/net6.0/BankEncapsulation.pdb
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.AssemblyReference.cache
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfoInputs.cache
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.AssemblyInfo.cs
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.csproj.CoreCompileInputs.cache
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.dll
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/refint/BankEncapsulation.dll
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.pdb
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/BankEncapsulation.genruntimeconfig.cache
+/Users/michaelberg/Desktop/Repos/BankEncapsulation/BankEncapsulation/obj/Debug/net6.0/ref/BankEncapsulation.dll
