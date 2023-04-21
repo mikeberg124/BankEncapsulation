@@ -9,7 +9,7 @@
             var amountDeposit = double.Parse(Console.ReadLine());
             amount.Deposit(amountDeposit);
 
-            Console.WriteLine($"Your balance is {amountDeposit}()");
+            Console.WriteLine($"Your balance is {amountDeposit}");
 
         }
     }
